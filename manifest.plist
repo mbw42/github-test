@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://github.com/mbw42/github-test/raw/master/RXOption.ipa</string>
+					<string>https://github.com/mbw42/github-test/raw/master/image57*57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://github.com/mbw42/github-test/raw/master/RXOption.ipa</string>
+					<string>https://github.com/mbw42/github-test/raw/master/image512*512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
